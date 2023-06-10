@@ -1,1 +1,1 @@
-# nazaruchBreviter
+# Here is this [site](https://nazarstok.github.io/nazaruchBreviter/).
