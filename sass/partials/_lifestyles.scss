@@ -1,0 +1,203 @@
+.lifestyles {
+    width: 1170px;
+   
+    position: relative;
+    z-index: 3;
+   
+   display: flex;
+   justify-content: space-between;
+
+    
+    .left-box {
+        display: block;
+        position: relative;
+        width: 360px;
+            height: 250px;
+            margin-bottom: 68px;
+        img {
+            width: 360px;
+            height: 250px;
+            display: block;
+            position: absolute;
+
+        }
+
+        .button {
+
+            display: flex;
+            justify-content: center;
+
+            border-style: solid;
+            border-width: 1px;
+            border-color: rgb(255, 255, 255);
+            background-color: rgba(255, 255, 255, 0);
+            position: absolute;
+
+            margin-top: 102px;
+            margin-left: 104px;
+            width: 152px;
+            height: 50px;
+
+            .bt {
+
+                margin-top: 6px;
+                background-color: rgb(255, 255, 255);
+                position: relative;
+
+                width: 134px;
+                height: 36px;
+
+
+                display: flex;
+                justify-content: center;
+
+
+                .lifestyle-bt-text {
+                    font-size: 12px;
+                    font-family: "Montserrat";
+                    color: rgb(62, 62, 62);
+                    font-weight: bold;
+                    line-height: 1.167;
+                    text-transform: uppercase;
+                    position: absolute;
+                    margin-top: 14px;
+                    display: block;
+                }
+
+
+            }
+
+        }
+    }
+
+    .middle-box {
+        display: block;
+        position: relative;
+        width: 360px;
+            height: 250px;
+            margin-bottom: 68px;
+        
+        img {
+            width: 360px;
+            height: 250px;
+            display: block;
+            position: absolute;
+
+        }
+
+        .button {
+
+            display: flex;
+            justify-content: center;
+
+            border-style: solid;
+            border-width: 1px;
+            border-color: rgb(255, 255, 255);
+            background-color: rgba(255, 255, 255, 0);
+            position: absolute;
+
+            margin-top: 102px;
+            margin-left: 104px;
+            width: 152px;
+            height: 50px;
+
+            .bt {
+
+                margin-top: 6px;
+                background-color: rgb(255, 255, 255);
+                position: relative;
+
+                width: 134px;
+                height: 36px;
+
+
+                display: flex;
+                justify-content: center;
+
+
+                .lifestyle-bt-text {
+                    font-size: 12px;
+                    font-family: "Montserrat";
+                    color: rgb(62, 62, 62);
+                    font-weight: bold;
+                    line-height: 1.167;
+                    text-transform: uppercase;
+                    position: absolute;
+                    margin-top: 14px;
+                    display: block;
+                }
+
+
+            }
+
+        }
+    }
+    
+
+
+    .right-box {
+        display: block;
+        position: relative;
+        width: 360px;
+        height: 250px;
+        
+        img {
+            width: 360px;
+            height: 250px;
+            display: block;
+            position: absolute;
+
+        }
+
+        .button {
+
+            display: flex;
+            justify-content: center;
+
+            border-style: solid;
+            border-width: 1px;
+            border-color: rgb(255, 255, 255);
+            background-color: rgba(255, 255, 255, 0);
+            position: absolute;
+
+            margin-top: 102px;
+            margin-left: 104px;
+            width: 152px;
+            height: 50px;
+
+            .bt {
+
+                margin-top: 6px;
+                background-color: rgb(255, 255, 255);
+                position: relative;
+
+                width: 134px;
+                height: 36px;
+
+
+                display: flex;
+                justify-content: center;
+
+
+                .lifestyle-bt-text {
+                    font-size: 12px;
+                    font-family: "Montserrat";
+                    color: rgb(62, 62, 62);
+                    font-weight: bold;
+                    line-height: 1.167;
+                    text-transform: uppercase;
+                    position: absolute;
+                    margin-top: 14px;
+                    display: block;
+                }
+
+
+            }
+
+        }
+    }
+
+}
+
+
+

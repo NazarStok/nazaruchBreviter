@@ -1,0 +1,14 @@
+.layout-bg {
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+.layout-bg .bg {
+  position: relative;
+  z-index: 1;
+}
+.layout-bg .bg img {
+  position: absolute;
+  width: 100%;
+}

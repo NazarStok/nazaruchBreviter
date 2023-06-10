@@ -1,0 +1,891 @@
+.about-us {
+    display: block;
+    position: relative;
+    width: 100%;
+    z-index: 3;
+
+
+
+
+
+
+
+
+
+
+
+
+    .world-gift-box {
+        display: block;
+        position: relative;
+        width: 362px;
+        height: 464px;
+        background-color: #ffffff;
+        float: right;
+
+
+        .img-world-gift {
+
+            position: relative;
+
+            img {
+
+                position: absolute;
+                padding-top: 35px;
+                padding-left: 30px;
+
+            }
+        }
+
+        .text-worldgift-box {
+            position: relative;
+            padding-top: 35px;
+            padding-left: 30px;
+            height: 396px;
+
+            .img-logo {
+
+                position: relative;
+                padding-top: 250px;
+                padding-left: 36px;
+
+                img {
+                    position: relative;
+                    width: 240px;
+                    height: 64px;
+                }
+            }
+
+            p {
+                font-size: 12px;
+                font-family: "Myriad Pro";
+                color: rgb(113, 249, 174);
+                line-height: 1.167;
+                padding-top: 20px;
+                position: absolute;
+                padding-left: 44px;
+                text-transform: uppercase;
+
+            }
+        }
+
+    }
+
+
+    .follow-me-box {
+
+
+        position: relative;
+        width: 362px;
+        height: 180px;
+        background-color: #ffffff;
+        float: right;
+        margin-top: 46px;
+        margin-bottom: 50px;
+
+        .share-logo {
+
+            display: flex;
+            justify-content: space-between;
+
+            .strip-followbox-left {
+                margin-top: 38px;
+                margin-left: 30px;
+                position: relative;
+
+                img {
+
+                    display: block;
+                    position: relative;
+
+
+                }
+
+            }
+
+            .share-icon {
+
+
+                margin-top: 25px;
+                position: relative;
+                border: 0;
+                font-size: 10px;
+                background-color: #ffffff;
+                border-style: solid;
+                border-width: 1px;
+                border-color: rgb(223, 223, 223);
+                border-radius: 2px;
+                width: 110px;
+                height: 32px;
+                text-align: center;
+
+
+                p {
+                    padding-top: 10px;
+                    text-transform: uppercase;
+                    font-size: 10px;
+                    font-family: "Myriad Pro";
+                    color: rgb(131, 131, 131);
+                    text-transform: uppercase;
+                }
+
+            }
+
+            .strip-followbox-right {
+                margin-top: 38px;
+                margin-right: 30px;
+                position: relative;
+
+                img {
+
+                    display: block;
+                    position: relative;
+
+
+                }
+
+            }
+
+
+
+        }
+
+
+        .socials-followme-box {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            padding-left: 30px;
+            padding-top: 34px;
+
+            p {
+                padding-top: 10px;
+                text-transform: uppercase;
+                font-size: 10px;
+                font-family: "Myriad Pro";
+                color: rgb(131, 131, 131);
+                text-transform: uppercase;
+            }
+
+            .arrow-followme-box {
+                position: relative;
+                padding-left: 16px;
+                padding-right: 14px;
+                padding-top: 10px;
+
+                img {
+
+                    position: relative;
+                    display: block;
+
+
+                }
+
+            }
+
+            .socials-icon {
+                display: flex;
+                justify-content: center;
+
+                position: relative;
+
+
+
+
+                ul {
+                    display: flex;
+                    flex-direction: row;
+                    flex-wrap: wrap;
+
+                    li {
+
+                        a {
+                            display: block;
+                            width: 100%;
+                            position: relative;
+                            border-radius: 50%;
+                            width: 37px;
+                            height: 37px;
+
+                            img {
+
+                                display: block;
+                                position: relative;
+                                padding-right: 5px;
+
+                            }
+
+                        }
+
+                    }
+
+                }
+
+            }
+
+        }
+
+
+
+
+
+    }
+
+
+    .caracraft-box {
+
+        position: relative;
+        width: 360px;
+        height: 712px;
+        background-color: #ffffff;
+        float: right;
+
+        .share-logo {
+
+            display: flex;
+            justify-content: space-between;
+
+            .strip-followbox-left {
+                margin-top: 38px;
+                margin-left: 30px;
+                position: relative;
+
+                img {
+
+                    display: block;
+                    position: relative;
+
+
+                }
+
+            }
+
+            .share-icon {
+
+
+                margin-top: 25px;
+                position: relative;
+                border: 0;
+                font-size: 10px;
+                background-color: #ffffff;
+                border-style: solid;
+                border-width: 1px;
+                border-color: rgb(223, 223, 223);
+                border-radius: 2px;
+                width: 110px;
+                height: 32px;
+                text-align: center;
+
+
+                p {
+                    padding-top: 10px;
+                    text-transform: uppercase;
+                    font-size: 10px;
+                    font-family: "Myriad Pro";
+                    color: rgb(131, 131, 131);
+                    text-transform: uppercase;
+                }
+
+            }
+
+            .strip-followbox-right {
+                margin-top: 38px;
+                margin-right: 30px;
+                position: relative;
+
+                img {
+
+                    display: block;
+                    position: relative;
+
+
+                }
+
+            }
+
+
+
+        }
+
+
+        .caracraft-box-img {
+            position: relative;
+            margin-left: 43px;
+            margin-top: 43px;
+
+            img {
+                display: block;
+                position: relative;
+                width: 268px;
+                height: 266px;
+
+            }
+
+        }
+
+
+        .caracraft-box-text {
+
+            display: block;
+            position: relative;
+            margin-top: 44px;
+
+            p {
+
+                font-size: 14px;
+
+                color: rgb(74, 74, 74);
+                line-height: 1.714;
+                text-align: center;
+
+            }
+
+        }
+
+
+
+        .caracraft-box-readmore-text {
+
+            display: block;
+            position: relative;
+            margin-top: 24px;
+
+
+            p {
+                text-align: center;
+                font-size: 14px;
+                color: rgb(34, 187, 102);
+
+
+
+
+                span {
+
+
+
+
+
+                    font-size: 14px;
+                    font-family: "Myriad Pro";
+                    color: rgb(34, 187, 102);
+                    text-decoration: underline;
+                    line-height: 1.714;
+                    text-align: center;
+                }
+
+
+
+            }
+
+
+        }
+
+        .caracraft-box-logo {
+
+            display: block;
+            position: relative;
+            margin-top: 25px;
+            margin-left: 104px;
+
+
+            img {
+
+                position: relative;
+
+            }
+
+        }
+
+        .socials-icon-caracraft-box {
+            display: flex;
+            justify-content: center;
+
+            position: relative;
+            margin-top: 34px;
+
+
+
+            ul {
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+
+                li {
+
+                    a {
+                        display: block;
+                        width: 100%;
+                        position: relative;
+                        border-radius: 50%;
+                        width: 37px;
+                        height: 37px;
+
+                        img {
+
+                            display: block;
+                            position: relative;
+                            padding-right: 13px;
+
+                        }
+
+                    }
+
+                }
+
+            }
+
+        }
+
+
+    }
+
+
+
+
+
+    .email-subscribe-box {
+
+        position: relative;
+        width: 360px;
+        height: 236px;
+        background-color: #ffffff;
+        float: right;
+        margin-top: 56px;
+
+        .share-logo {
+
+            display: flex;
+            justify-content: space-between;
+
+            .strip-followbox-left {
+                margin-top: 38px;
+                margin-left: 30px;
+                position: relative;
+
+                img {
+
+                    display: block;
+                    position: relative;
+
+
+                }
+
+            }
+
+            .share-icon {
+
+
+                margin-top: 25px;
+                position: relative;
+                border: 0;
+                font-size: 10px;
+                background-color: #ffffff;
+                border-style: solid;
+                border-width: 1px;
+                border-color: rgb(223, 223, 223);
+                border-radius: 2px;
+                width: 110px;
+                height: 32px;
+                text-align: center;
+
+
+                p {
+                    padding-top: 10px;
+                    text-transform: uppercase;
+                    font-size: 10px;
+                    font-family: "Myriad Pro";
+                    color: rgb(131, 131, 131);
+                    text-transform: uppercase;
+                }
+
+            }
+
+            .strip-followbox-right {
+                margin-top: 38px;
+                margin-right: 30px;
+                position: relative;
+
+                img {
+
+                    display: block;
+                    position: relative;
+
+
+                }
+
+            }
+
+
+
+        }
+
+
+
+
+
+        .email-enter {
+            display: block;
+            margin-top: 30px;
+            margin-left: 30px;
+            background-color: rgb(248, 248, 248);
+            position: relative;
+            width: 300px;
+            height: 43px;
+            border: 0px;
+            border-radius: 0px;
+
+            .email-enter::placeholder {
+                margin-left: 12px;
+                font-size: 12px;
+                font-family: "Montserrat";
+                color: rgb(189, 189, 189);
+                line-height: 2.167;
+
+
+            }
+        }
+
+        .email-subscribe-button {
+            font-size: 12px;
+            font-family: "Montserrat";
+            color: rgb(247, 247, 247);
+            line-height: 2.167;
+            text-align: left;
+            border-radius: 0 0 2px 2px;
+            background-color: rgb(34, 187, 102);
+            width: 300px;
+            height: 40px;
+            margin-left: 30px;
+            border: 0px;
+            position: relative;
+            display: block;
+            padding-left: 115px;
+            text-transform: uppercase;
+        }
+
+
+    }
+
+
+
+    .comentar-box {
+
+        display: block;
+        position: relative;
+        width: 360px;
+        height: 466px;
+        background-color: #ffffff;
+        float: right;
+        margin-top: 54px;
+
+        .share-logo {
+
+            display: flex;
+            justify-content: space-between;
+
+            .strip-followbox-left {
+                margin-top: 38px;
+                margin-left: 30px;
+                position: relative;
+
+                img {
+
+                    display: block;
+                    position: relative;
+
+
+                }
+
+            }
+
+            .share-icon {
+
+
+                margin-top: 25px;
+                position: relative;
+                border: 0;
+                font-size: 10px;
+                background-color: #ffffff;
+                border-style: solid;
+                border-width: 1px;
+                border-color: rgb(223, 223, 223);
+                border-radius: 2px;
+                width: 110px;
+                height: 32px;
+                text-align: center;
+
+
+                p {
+                    padding-top: 10px;
+
+                    font-size: 10px;
+                    font-family: "Myriad Pro";
+                    color: rgb(131, 131, 131);
+                    text-transform: uppercase;
+                }
+
+            }
+
+            .strip-followbox-right {
+                margin-top: 38px;
+                margin-right: 30px;
+                position: relative;
+
+                img {
+
+                    display: block;
+                    position: relative;
+
+
+                }
+
+            }
+
+
+
+        }
+
+        .comentar-box-view {
+
+            position: relative;
+            display: block;
+            margin-top: 32px;
+            margin-left: 30px;
+            height: 64px;
+
+            .comentar-avatar {
+                float: left;
+                display: block;
+                position: relative;
+                margin-right: 15px;
+
+                img {
+
+                    position: relative;
+                }
+
+            }
+
+
+            .comentar-text {
+                display: block;
+                position: relative;
+                float: left;
+
+                p {
+                    font-size: 16px;
+                    font-family: "Montserrat";
+                    color: rgb(38, 38, 38);
+                    font-weight: bold;
+                    line-height: 1.375;
+                    text-align: left;
+
+                }
+            }
+
+            .comentar-count {
+                display: flex;
+                justify-content: space-between; 
+                
+                position: relative;
+                float: left;
+                height: 15px;
+                align-items: center;
+               
+
+                img {
+                    display: block;
+                    position: relative;
+                    width: 15px;
+                    height: 15px;
+
+                }
+
+
+                p {
+
+                    font-size: 10px;
+                    font-family: "Montserrat";
+                    color: rgb(131, 131, 131);
+                    line-height: 3.2;
+                    position: relative;
+
+                    
+                    margin-left: 8px;
+                }
+
+            }
+
+
+
+        }
+
+
+
+    }
+
+
+
+    .search-box {
+
+        display: block;
+        position: relative;
+        width: 360px;
+        height: 168px;
+        background-color: #ffffff;
+        float: right;
+        margin-top: 56px;
+
+        .share-logo {
+
+            display: flex;
+            justify-content: space-between;
+
+            .strip-followbox-left {
+                margin-top: 38px;
+                margin-left: 30px;
+                position: relative;
+
+                img {
+
+                    display: block;
+                    position: relative;
+
+
+                }
+
+            }
+
+            .share-icon {
+
+
+                margin-top: 25px;
+                position: relative;
+                border: 0;
+                font-size: 10px;
+                background-color: #ffffff;
+                border-style: solid;
+                border-width: 1px;
+                border-color: rgb(223, 223, 223);
+                border-radius: 2px;
+                width: 110px;
+                height: 32px;
+                text-align: center;
+
+
+                p {
+                    padding-top: 10px;
+
+                    font-size: 10px;
+                    font-family: "Myriad Pro";
+                    color: rgb(131, 131, 131);
+                    text-transform: uppercase;
+                }
+
+            }
+
+            .strip-followbox-right {
+                margin-top: 38px;
+                margin-right: 30px;
+                position: relative;
+
+                img {
+
+                    display: block;
+                    position: relative;
+
+
+                }
+
+            }
+
+
+
+        }
+
+        .search {
+
+            font-size: 12px;
+            font-family: "Montserrat";
+            color: rgb(189, 189, 189);
+            line-height: 2.167;
+            text-align: left;
+            width: 256px;
+            height: 41px;
+            background-color: rgb(248, 248, 248);
+            border: 0px;
+            margin-top: 35px;
+            margin-left: 30px;
+        }
+
+        .bt-search {
+
+            width: 44px;
+            height: 41px;
+            background-color: rgb(34, 187, 102);
+            border: 0px;
+            display: flex;
+            justify-content: center;
+            position: relative;
+            float: right;
+            margin-top: 35px;
+            margin-right: 30px;
+            border-radius: 0 2px 2px 0;
+
+            img {
+
+                display: block;
+                position: relative;
+                margin-top: 12px;
+
+            }
+        }
+    }
+
+    .switch{
+
+   display: block;
+   float: right;
+ 
+   margin-right: 712px;
+    .never-post-button {
+
+        display: block;
+        position: relative;
+        font-size: 12px;
+        font-family: "Myriad Pro";
+        color: rgb(38, 38, 38);
+        line-height: 1.167;
+        text-align: left;
+        border: 0px;
+        background: 0px;
+        float: left;
+    }
+
+
+    p {
+
+        display: block;
+        position: relative;
+        float: left;
+    }
+
+    .older-post-button {
+
+        float: left;
+        display: block;
+        position: relative;
+        font-size: 12px;
+        font-family: "Myriad Pro";
+        color: rgb(38, 38, 38);
+        line-height: 1.167;
+        text-align: left;
+        border: 0px;
+        background: 0px;
+        color: #22bb66;
+    }
+ }
+
+}
+
+

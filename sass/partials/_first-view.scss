@@ -1,0 +1,114 @@
+.first-view {
+    display: block;
+    overflow: hidden;
+    height: 356px;
+    width: 100%;
+    position: relative;
+    
+
+    .view {
+        position: relative;
+        ;
+        height: 100%;
+        
+        
+        
+        .socials {
+            display: flex;
+            justify-content: center;
+
+            position: relative;
+
+            top: 0;
+            left: 0;
+            z-index: 2;
+            padding-top: 67px;
+
+            ul {
+                display: flex;
+                flex-direction: row ;
+                flex-wrap: wrap;
+
+                li {
+                    
+
+                    a {
+                        display: block;
+                        width: 100%;
+                        position: relative;
+                        z-index: 2;
+
+                        img {
+                            display: block;
+                            position: relative;
+                            z-index: 2;
+                            padding: 0 0 0 12px;
+                        }
+                    }
+                }
+
+
+
+
+            }
+
+        }
+
+        .logo-first-view {
+            z-index: 2;
+        
+            
+            display: flex;
+            justify-content: center;
+            position: relative;
+
+            margin-top: 37px;
+
+            ul {
+                
+                display: flex;
+                flex-direction: row ;
+                flex-wrap: wrap;
+                li {
+                    
+
+                    img {
+                        margin-top: 37px;
+                        position: relative;
+                        z-index: 2;
+
+                    }
+
+                    p {
+
+                        width: 100%;
+                        position: relative;
+                        padding: 0 12px 0 12px;
+                        margin-top: 27px;
+                    }
+                }
+            }
+
+
+
+
+
+        }
+
+        .logo-main {
+            z-index: 2;
+            display: flex;
+            justify-content: center;
+            position: relative;
+            float: left;
+            width: 100%;
+
+            img {
+
+                z-index: 2;
+                position: relative;
+                margin-top: 16px;
+            }
+        }
+    }
+}
